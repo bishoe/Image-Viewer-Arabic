@@ -6,5 +6,4 @@ Image Viewer Arabic using desktop app vs2010
 
 bishoyNabildev@gmail.com
 
-Tel:‎ +20 0102 5012 313
-
+ 
